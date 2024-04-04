@@ -76,7 +76,7 @@ body {
 /*SITE HERO*/
 
 .site-hero {
-    background: url('/img/Header.png') no-repeat center center;
+    background: url('./img/Header.png') no-repeat center center;
     height: 641px;
 
 }
